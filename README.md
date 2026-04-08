@@ -158,11 +158,6 @@ The pipeline consists of:
 
 ---
 
-**Full Report:**  
-[Los Angeles Crime Data Pipeline Project](./report/Los Angeles Crime Data Pipeline Project.pdf)
-
----
-
 ## Future Improvements
 - Incorporate real-time streaming (e.g., Kafka)  
 - Add geospatial analysis capabilities  
