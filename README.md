@@ -10,7 +10,7 @@ The system demonstrates how multiple technologies can be integrated across the d
 ---
 
 ## Dataset
-- File: `Crime_Data_from_2020_to_2024.csv` (available at https://catalog.data.gov/dataset/crime-data-from-2020-to-present.) 
+- File: `Crime_Data_from_2020_to_2024.csv` (available at https://catalog.data.gov/dataset/crime-data-from-2020-to-present) 
 - Source: Los Angeles crime data (2020–Present)  
 - Contains over 1 million records including crime type, location, victim demographics, and timestamps  
 
